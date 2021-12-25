@@ -1,8 +1,8 @@
 /*Global Style
 -------------------------------------------------*/ 
 body{
-    color: #343434
-    background: #042a2b
+    color: #343434;
+    background: #042a2b;
 }
 
 img {
@@ -12,7 +12,7 @@ img {
 /*Profile 
 -------------------------------------------------*/ 
 header {
-    background: #042a2b
+    background: #042a2b;
 }
 
 
