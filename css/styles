@@ -1,7 +1,7 @@
 /*Global Style
 -------------------------------------------------*/ 
 body{
-    color: #343434;
+    color: #EDFFEC ;
     background: #042a2b;
 }
 
@@ -9,21 +9,52 @@ img {
     width: 300px;
 }
 
+a{
+    color: #4C9F70; 
+}
+
+h2 {
+    color: #618985;
+    font-weight: bolder;
+}
+
+h3{
+    color: #2D728F;
+}
+
+h4 {
+    color: #AFCBFF;
+}
 /*Profile 
 -------------------------------------------------*/ 
-header {
-    background: #042a2b;
+.header {
+    /* background: #F24236; */
 }
 
 
 /*Projects 
 -------------------------------------------------*/ 
+.projects {
+    /* background: #715b5b; */
+}
 
 /*Work Experience 
 -------------------------------------------------*/ 
-
+.work_experience {
+    /* background: #2D728F; */
+}
 /*Education 
 -------------------------------------------------*/ 
+.education {
+    /* background: #F24236; */
+}
 
-/*Contact 
+/*Footer 
 -------------------------------------------------*/ 
+.footer {
+    /* background: #B2ABF2; */
+}
+
+.footer a {
+
+}
